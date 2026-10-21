@@ -1,2 +1,5 @@
 # Kenya-Trend-Predictor-Analytics-Dashboard.github.io
 interactive Kenya Social Media Trend Predictor &amp; Analytics Dashboard tailored specifically to Tech &amp; Business and Entertainment &amp; Pop Culture.
+
+
+Key Highlights of the Application Built:Category Focus: Specialized filters for Tech & Business (e.g., M-Pesa API, KRA eTIMS, Y-Combinator Kenya) and Entertainment & Pop Culture (Gengetone trends, Kalasha Awards, viral audio).Heuristic & Frequency Velocity Engine: Visual representation of the exponential time-decay acceleration formula $V(t) = \frac{C_t - C_{t-1}}{\max(1, C_{t-1})} \times e^{-\lambda \Delta t}$, complete with live slider controls to adjust detection sensitivity.Deep Research Modal Launcher: Click on any trend to launch direct search queries across X (Twitter), Google Trends KE, r/Kenya, and TikTok KE with pre-populated parameters.Interactive Dashboard Features: Live ticker updates, high-velocity metric KPIs, multi-platform co-occurrence tracking, and a simulated pipeline scan button.Notification Pipeline Testing: Configurable push/webhook toggles and interactive test triggers for in-browser alerts.
